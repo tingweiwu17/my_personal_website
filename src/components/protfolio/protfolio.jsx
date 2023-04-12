@@ -24,7 +24,7 @@ const data = () => [
         id: 3,
         title: '個人介紹網站:React.js',
         image: IMG3,
-        github: '',
+        github: 'https://github.com/tingweiwu17/my_personal_website',
 
     },{
         id: 4,
