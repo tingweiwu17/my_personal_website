@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tingweiwu17/my_personal_website/static/css/main.396ca9db.css",
-    "main.js": "/tingweiwu17/my_personal_website/static/js/main.f06c94fa.js",
+    "main.js": "/tingweiwu17/my_personal_website/static/js/main.3b0474b1.js",
     "static/media/me.png": "/tingweiwu17/my_personal_website/static/media/me.32cfd8991e87629bb3b9.png",
     "static/media/tingwei_cv.pdf": "/tingweiwu17/my_personal_website/static/media/tingwei_cv.92e6699c401471cd3cbf.pdf",
     "static/media/personal.png": "/tingweiwu17/my_personal_website/static/media/personal.df132d7f5e5e4d7411f2.png",
@@ -13,10 +13,10 @@
     "static/media/front.png": "/tingweiwu17/my_personal_website/static/media/front.790d00cb14178ba6dd69.png",
     "index.html": "/tingweiwu17/my_personal_website/index.html",
     "main.396ca9db.css.map": "/tingweiwu17/my_personal_website/static/css/main.396ca9db.css.map",
-    "main.f06c94fa.js.map": "/tingweiwu17/my_personal_website/static/js/main.f06c94fa.js.map"
+    "main.3b0474b1.js.map": "/tingweiwu17/my_personal_website/static/js/main.3b0474b1.js.map"
   },
   "entrypoints": [
     "static/css/main.396ca9db.css",
-    "static/js/main.f06c94fa.js"
+    "static/js/main.3b0474b1.js"
   ]
 }
